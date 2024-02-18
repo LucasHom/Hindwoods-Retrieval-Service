@@ -1,0 +1,4 @@
+repository "Hindwood Retrieval Service@BrodandoPersonal@cloud"
+  path "/"
+    br "/main"
+    co "/main"
